@@ -6,6 +6,6 @@ A simple python application, linked to the web. Download music for free!
 `🟢 This Release is up to date`
 
 ### ISSUES?
-https://github.com/zscopuv/YTMusic/issues/new
+[Issues Tab](https://github.com/zscopuv/YTMusic/issues/new)
 <br>
-https://discord.gg/y6qgqjbSPr
+[Discord](https://discord.gg/y6qgqjbSPr)
