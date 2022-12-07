@@ -7,4 +7,5 @@ A simple python application, linked to the web. Download music for free!
 
 ### ISSUES?
 https://github.com/zscopuv/YTMusic/issues/new
+<br>
 https://discord.gg/y6qgqjbSPr
