@@ -1,7 +1,7 @@
 # YTMusic
 A simple python application, linked to the web. Download music for free!
 
-### Do you want to continue with this project? Contact me in discord! (Links are [here](#issues))
+### Do you want to continue with this project? Contact me in [discord](https://discord.gg/y6qgqjbSPr)!
 
 `🟢 This Release is up to date`
 
