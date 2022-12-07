@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://generator.zscopuv.repl.co/style.css" type="text/css" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>YTMusic</title>
+</head>
+<body>
+    <h1>Your file is rendering, please be patient!<br>We will redirect you after the file is loaded.</h1>
+    <h3 style="color:white;"><strong>Note,</strong> that the files will be stored on our cloud for ONLY a minute.</h3>
+<script>
+window.setTimeout(function(){
+    
+    const params = new URLSearchParams(window.location.search);
+    const link = params.get('link') ?? 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+    window.location.href = `/f?link=${link}`;
+
+}, 7500);
+</script>
+</body>
+</html>
