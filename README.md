@@ -10,4 +10,4 @@ A simple python application, linked to the web. Download music for free!
 ### ISSUES?
 [Issues Tab](https://github.com/zscopuv/YTMusic/issues/new)
 <br>
-[Discord](https://discord.gg/y6qgqjbSPr)
+[Discord](https://dsc.gg/peakus)
